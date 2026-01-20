@@ -10,7 +10,7 @@ svi koji žele da nauče nešto novo dok uživaju u pecanju
 ## Primer uporabe
 aplikacija bi se koristila kada se nekome peca ali nema sredstva da ode sam ili uslovi nisu idealni za pecanje napolju.
 ## Osnovne funkcionalnosti
-kroz istoriju velenjskog jezera će nas voditi mamut, imace opcija i da se ode čamcem na jezero u tom slučaju će tu biti veverica koja će biti tu 
-da odgovori na bilo kakva pitanja koja možete da imate
+kroz istoriju velenjskog jezera će nas voditi veverica, imace opcija i da se ode čamcem na jezero. vevericu možeš da pitaš pitanja oko nastanka jezera
+i šta te sve zanima oko njega. na pitanja će chatgpt odgovarati.
 ## Izbrana platforma
 VR: Meta Quest
