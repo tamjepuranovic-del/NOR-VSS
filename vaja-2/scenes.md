@@ -1,7 +1,9 @@
 # Vizualizacija scena VR/AR aplikacije
 
-## Scena 1: Pecanje – bacanje udice
+## Scena 1: Pecanje i veverica
 ![Scena 1](images/scene-01.png)
+![Scena 1](images/veverica.png)
+![Scena 1](images/pogled.png)
 
 **Opis:**
 Korisnik vidi pogled iz prvog lica kako drži štap za pecanje iznad mirnog jezera, okruženog brdima i zelenilom.  
