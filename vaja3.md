@@ -40,7 +40,6 @@ V kratkem dokumentu odgovorite na naslednje:
    * VR kontrolerji
    * Pogled
    * Dotik zaslona
-   * Miška/tipkovnica
 
 ---
 
